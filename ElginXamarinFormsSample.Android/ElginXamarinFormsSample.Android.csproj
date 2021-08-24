@@ -92,10 +92,6 @@
       <Project>{ff7b7a5e-a42f-4d47-a687-3a7a9b61f8e6}</Project>
       <Name>ElginShared.E1</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ElginShared.MiniPdvM8\ElginShared.MiniPdvM8.csproj">
-      <Project>{0fb6b29f-2763-4b66-b39f-6a556a044b7f}</Project>
-      <Name>ElginShared.MiniPdvM8</Name>
-    </ProjectReference>
     <ProjectReference Include="..\ElginXamarinFormsSample\ElginXamarinFormsSample.csproj">
       <Project>{5D878ACF-CE57-4DC9-85B5-8FBE3539AD9E}</Project>
       <Name>ElginXamarinFormsSample</Name>

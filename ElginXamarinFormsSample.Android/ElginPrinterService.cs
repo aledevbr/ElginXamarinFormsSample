@@ -34,8 +34,8 @@ namespace ElginXamarinFormsSample.Droid
         public int printerInternalImpStart()
         {
             printerStop();
-            int result = Termica.AbreConexaoImpressora(6, "M8", "", 0);
-            // int result = Termica.AbreConexaoImpressora(3, "i9", "192.168.2.160", 9100);
+            // int result = Termica.AbreConexaoImpressora(6, "M8", "", 0);
+            int result = Termica.AbreConexaoImpressora(3, "i9", "192.168.2.160", 9100);
             return result;
         }
 

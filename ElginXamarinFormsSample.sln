@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElginXamarinFormsSample.And
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElginShared.E1", "ElginShared.E1\ElginShared.E1.csproj", "{FF7B7A5E-A42F-4D47-A687-3A7A9B61F8E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElginShared.MiniPdvM8", "ElginShared.MiniPdvM8\ElginShared.MiniPdvM8.csproj", "{0FB6B29F-2763-4B66-B39F-6A556A044B7F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,10 +31,6 @@ Global
 		{FF7B7A5E-A42F-4D47-A687-3A7A9B61F8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF7B7A5E-A42F-4D47-A687-3A7A9B61F8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF7B7A5E-A42F-4D47-A687-3A7A9B61F8E6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0FB6B29F-2763-4B66-B39F-6A556A044B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0FB6B29F-2763-4B66-B39F-6A556A044B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0FB6B29F-2763-4B66-B39F-6A556A044B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0FB6B29F-2763-4B66-B39F-6A556A044B7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
